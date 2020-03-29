@@ -16,7 +16,7 @@
 <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
 <link rel="canonical" href="http://localhost:4000/texture/" />
 <meta property="og:url" content="http://localhost:4000/texture/" />
-<meta property="og:site_name" content="Texture Theme" />
+<meta property="og:site_name" content="Rocket47" />
 <script type="application/ld+json">
 {"author":{"@type":"Person","name":"GitHub User"},"headline":"Texture Theme","url":"http://localhost:4000/texture/","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@type":"WebSite","name":"Texture Theme","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
