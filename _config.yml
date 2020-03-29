@@ -22,10 +22,8 @@ texture:
   showPicker: false
 
   # generate social links in footer
-  social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+  social_links:    
+    github:  rocket47    
     rss: rss
  
 
