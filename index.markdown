@@ -9,14 +9,14 @@
 <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Texture Theme | Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Rocket47" />
+<meta property="og:title" content="Texture Theme" />
 <meta name="author" content="GitHub User" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
 <meta property="og:description" content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description." />
 <link rel="canonical" href="http://localhost:4000/texture/" />
 <meta property="og:url" content="http://localhost:4000/texture/" />
-<meta property="og:site_name" content="Rocket47" />
+<meta property="og:site_name" content="Texture Theme" />
 <script type="application/ld+json">
 {"author":{"@type":"Person","name":"GitHub User"},"headline":"Texture Theme","url":"http://localhost:4000/texture/","description":"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.","@type":"WebSite","name":"Texture Theme","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
@@ -26,7 +26,7 @@
 		<div class="container"></div><div class="container">
 	<h1>Roman Tsenov</h1>
 	<h2>Software Engineer</h2>
-	<ul class="social"><a href="https://github.com/rocket47"><li><i class="icon-github-circled"></i></li></a><a href="https://linkedin.com/in/roman-tsenov/"><li><i class="icon-linkedin-squared"></i></li></a></ul>
+	<ul class="social"><a href="https://github.com/rocket47"><li><i class="icon-github-circled"></i></li></a></ul>
 </div>
 </header>
 	<main>
