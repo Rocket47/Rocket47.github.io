@@ -1,0 +1,21 @@
+I"�<hr />
+<p>layout: post
+title:  “Welcome to my blog!”
+description: First post :)
+date:   2020-03-29 11:04 +0530
+Software developer’s road.</p>
+
+<p>I’m glad to see you here. My experience in programming is 2 years.</p>
+
+<p>So, I really like the .net platform. I’m going to go deeper into it.</p>
+
+<p>My immediate goal is to get a microsoft ceritficate and improve my basic programming knowledge.</p>
+
+<h4 id="ive-selected-the-main-topics-for-myself">I’ve selected the main topics for myself</h4>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>* .NET Core, C# language
+* Algorithms and Data Structure
+* Books, reviews, best practices
+</code></pre></div></div>
+
+:ET

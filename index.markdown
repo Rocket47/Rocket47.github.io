@@ -37,7 +37,7 @@
 			</a>
 			<div class="post-date"><i class="icon-calendar"></i>Mar 29, 2020</div>
 		</div>
-		<div class="post"><p>Hello everyone!</p>
+		<div class="post-description"><p>Hello everyone!</p>
 </div>
 	</li></ul>
 		</div>
