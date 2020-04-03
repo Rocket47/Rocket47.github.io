@@ -1,0 +1,22 @@
+I"R<h3 id="instruction-and-issues">Instruction and issues</h3>
+
+<p>Hi everyone!</p>
+
+<p>So, this instruction for windows user but for unix it will be easy, as always :)</p>
+
+<p>First of all:</p>
+
+<ul>
+  <li>
+    <p>Need to create a repository <a href="https://pages.github.com/">GitHubPages</a></p>
+  </li>
+  <li>
+    <p>I decided to use <a href="https://jekyllrb.com/">Jekyll</a>  (Actually, it was first tool which have been found me.)</p>
+
+    <ul>
+      <li>Please install ruby gems https://rubyinstaller.org/  <a href="https://pages.github.com/">GitHubPages</a></li>
+    </ul>
+  </li>
+</ul>
+
+:ET
