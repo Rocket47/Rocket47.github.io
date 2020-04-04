@@ -14,7 +14,7 @@ So, this instruction for windows users but for unix it will be easy, as always :
 
 * Need to create a repository [GitHubPages](https://pages.github.com/)
 
-* I decided to use [Jekyll]( https://jekyllrb.com/)  (Actually, it was first tool which have been found me.)
+* I decided to use [Jekyll]( https://jekyllrb.com/)  (Actually, it was the first tool which has been found me.)
 	
 
     1) Please install ruby gems [official site](https://rubyinstaller.org/)
@@ -62,17 +62,33 @@ cmd: CTRL+C //stop server
 ***Jekyll has many design templates***
 
 * Some of them can be found here [jekyllthemes](https://rubyinstaller.org/)
+* Download and unzip to root
 * Start the CMD and send ***jekyll build***
+* Check errors
 
 ***
 <mark style="background-color: lightblue">Remark</mark>
-* But not any of these templates can be uploaded to GitHub and even assembled on your computer
-* Just try to use simple themes.
-* I spent some time finding the right one. Perhaps this was the main issue
+```
+1) Not all templates can be uploaded to GitHub and even assembled on your computer
+2) Just try to use simple themes
+3) I spent some time finding the right one. Perhaps this was the main issue for me
+```
 
 ***
 <mark>STEP 6 : Posting on GitHub.</mark>
 
 * We already have the repository ***login.github.io***
-* Clone this repository and put filies from your root folder of the blog
-* Great news! Your blog is created on the GitHub Pages
+* Clone this repository and put files from your root ***Site/BlogName*** 
+* Do ***git commit/push***. 
+## <mark>Great! Your blog is online!</mark>
+
+***
+## Summary
+```
+1) If the template is not collected the first time please analyze Gemfile 
+2) If the downloaded folder with the theme have Gemfile.lock. Remove it!
+3) You should use _config.yml to set up preferences. Just don't forget that this file exists :)
+```
+### Links
+* [markdowntutorial](https://www.markdowntutorial.com/)
+* [github / usefully](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
