@@ -24,12 +24,14 @@ First of all:
 	##### set SSL_CERT_FILE=C:\Ruby27-x64\cacert.pem
 	
 ***
+How to install jekyll environment
 
 * gem install jekyll
 * jekyll -v
 * gem install bundler
 
 ***
+How to create a project
 
 * create a folder Site anywhere on the disk (run CMD from this plaсe)
 * jekyll new YourBlogName
@@ -43,6 +45,27 @@ First of all:
 How to create a new post
 
 * So, you can find all your *.md or *.markdown files in the folder _posts
+* Pattern for file name  year-month-date-name.md. 
+* Example: 2020-03-04-second-post-tutorial_io.markdown
+* To publish just add the file to the folder _post. 
+* Jekyll himself will collect everything you need.
 
+***
+Design of your blog
 
+There are many predefined themes and templates for Jekyll.
 
+* You can find some [jekyllthemes](https://rubyinstaller.org/)
+* To assemble the template you need to unzip it, start the console from the template folder and drive in the familiar jekyll build.
+
+***
+Remark
+* But not any of these templates can be uploaded to GitHub and even assembled on your computer
+* Just try to use simple themes.
+* I spent some time finding the right one. Perhaps this was the main issue
+
+***
+Posting on GitHub.
+
+* We already have the repository login.github.io
+* Clone this repository and put filies form your root foolder of the blog
