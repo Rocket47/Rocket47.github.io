@@ -28,6 +28,11 @@ So, perhaps this is quite abstract. Why do I choose it?
 * Improve knowledge of basic algorithms and data structures. 
 * Start a career on freelance or remote.
 
+```
+1) I didn't get any special education in programming. I really want to understand this subject deeper.
+ 
+2) The crisis of 2020 showed me how easy it is to be out of work. I'd like to create different sources of income. 
+```
 ***
 
 <mark>Secondary goals</mark>
