@@ -39,3 +39,8 @@ So, perhaps this is quite abstract. Why do I choose it?
 * To continue to learn English (A2 => B2)
 * Сreate a more attractive profile in GitHub, additionally  LinkedIn
 * An Introduction to JavaScript
+```
+1) No comments. Mandatory  for any specialist! 
+2) I hope this will make me write more code and demonstrate my skills better.
+3) Given the popularity of the language I would like to have experience working with the front-end part.
+```
