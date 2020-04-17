@@ -70,4 +70,14 @@ By the way, I have already passed verification. I hope it will help me :)
 
 ### Indicators of achievement:
 
-- 
+- Honestly, I don't know the exact ways to determine the level of language proficiency except as an international exam like a TOEFL. In my case I will try to get feedback from HR or take a trial lesson on [italki](https://www.italki.com/) :)
+
+- **Github** should be constantly updated. See a)
+
+- I don't have statistics for my **LinkedIn** [profile](https://www.linkedin.com/in/roman-tsenov/). I'll start by filling out each item in the profile. See b)
+
+- Take a course in javascript profession on the [hexlet](https://ru.hexlet.io/professions) platform see c)
+
+##### a) Not a day without a commit until the end of the year.
+##### b) 50 appearances in a month search and getting suggestions to chat with hr would be a great result.
+##### с) In addition to exercises I will need to complete 4 full fledged projects with a code review. I think it can be very usefull.
