@@ -1,0 +1,100 @@
+I"�<h3 id="instruction-and-issues">Instruction and issues</h3>
+
+<p>Hi everyone!</p>
+
+<p>So, this instruction for windows users but for unix it will be easy, as always :)</p>
+
+<p><mark>STEP 1 : First of all:</mark></p>
+
+<ul>
+  <li>
+    <p>Need to create a repository <a href="https://pages.github.com/">GitHubPages</a></p>
+  </li>
+  <li>
+    <p>I decided to use <a href="https://jekyllrb.com/">Jekyll</a>  (Actually, it was the first tool which has been found me.)</p>
+
+    <p>1) Please install ruby gems <a href="https://rubyinstaller.org/">official site</a></p>
+
+    <p>2) So, next step we should put the <a href="https://gist.github.com/agragregra/53d8b9cc22c3f14d6ad6dc536c66fe14">certificate</a> in a ruby folder</p>
+
+    <p>3) Example on my PC <strong><em>C:\Ruby27-x64\cacert.pem</em></strong></p>
+
+    <p>4) Please check  <strong><em>ruby -v и gem -v</em></strong> (<mark style="background-color: lightblue">run CMD as administration</mark>)</p>
+
+    <p>5) Set sertificate use the command <strong><em>set SSL_CERT_FILE=C:\Ruby27-x64\cacert.pem</em></strong></p>
+  </li>
+</ul>
+
+<hr />
+<p><mark>STEP 2 : How to install jekyll environment</mark></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> cmd: gem install jekyll
+ cmd: jekyll -v
+ cmd: gem install bundler
+</code></pre></div></div>
+<hr />
+<p><mark>STEP 3 : How to create a project</mark></p>
+
+<ul>
+  <li>Create a folder <strong><em>Site</em></strong> anywhere on the disk (<mark style="background-color: lightblue">run CMD from this plaсe</mark>)
+    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cmd: jekyll new YourBlogName
+cmd: jekyll build
+cmd: jekyll s
+cmd: CTRL+C //stop server
+</code></pre></div>    </div>
+  </li>
+  <li>Good job! Your blog is available to link <strong><em>localhost:4000</em></strong></li>
+</ul>
+
+<hr />
+
+<p><mark>STEP 4 : How to create a new post</mark></p>
+
+<ul>
+  <li>You can find all your <strong><em>*.md</em></strong> or <strong><em>*.markdown</em></strong> files in the folder <strong><em>_posts</em></strong></li>
+  <li>Pattern for file name  <strong><em>year-month-date-name.md</em></strong></li>
+  <li>To publish a new post just add a file to the folder <strong><em>_post</em></strong></li>
+</ul>
+
+<hr />
+
+<p><mark>STEP 5 : Design of your blog</mark></p>
+
+<p><strong><em>Jekyll has many design templates</em></strong></p>
+
+<ul>
+  <li>Some of them can be found here <a href="https://rubyinstaller.org/">jekyllthemes</a></li>
+  <li>Download and unzip to root</li>
+  <li>Start the CMD and send <strong><em>jekyll build</em></strong></li>
+  <li>Check errors</li>
+</ul>
+
+<hr />
+<p><mark style="background-color: lightblue">Remark</mark></p>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1) Not all templates can be uploaded to GitHub and even assembled on your computer
+2) Just try to use simple themes
+3) I spent some time finding the right one. Perhaps this was the main issue for me
+</code></pre></div></div>
+
+<hr />
+<p><mark>STEP 6 : Posting on GitHub.</mark></p>
+
+<ul>
+  <li>We already have the repository <strong><em>login.github.io</em></strong></li>
+  <li>Clone this repository and put files from your root <strong><em>Site/BlogName</em></strong></li>
+  <li>Do <strong><em>git commit/push</em></strong>.
+    <h2 id="great-your-blog-is-online"><mark>Great! Your blog is online!</mark></h2>
+  </li>
+</ul>
+
+<hr />
+<h2 id="summary">Summary</h2>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1) If the template is not collected the first time please analyze Gemfile 
+2) If the downloaded folder with the theme have Gemfile.lock. Remove it!
+3) You should use _config.yml to set up preferences. Just don't forget that this file exists :)
+</code></pre></div></div>
+<h3 id="links">Links</h3>
+<ul>
+  <li><a href="https://www.markdowntutorial.com/">markdowntutorial</a></li>
+  <li><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet">github / usefully</a></li>
+</ul>
+:ET

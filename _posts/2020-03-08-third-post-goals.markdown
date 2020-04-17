@@ -22,6 +22,13 @@ So, perhaps this is quite abstract. Why do I choose it?
 
 3) New activity. The achievement criteria are job offers. 
 ```
+
+### Indicators of achievement:
+- I can implement projects on 7-10 thousand lines. Have at least one finished on github.
+- 5 offers for this position were received.
+- Learning and using a functional programming language.
+- Grow up on my current job.
+
 ***
 
 <mark>Important goals</mark>
@@ -33,7 +40,23 @@ So, perhaps this is quite abstract. Why do I choose it?
  
 2) The crisis of 2020 showed me how easy it is to be out of work. I'd like to create different sources of income. 
 ```
+
+### Indicators of achievement:
+- Take 3 courses at this [school](https://vk.com/topic-152484379_38315158)
+
+##### a) Basic data structures (12 task)
+
+##### b) Trees and graphs (12 task)
+
+##### c) Sort and search (12 task)
+	
+- Earn $1000 on the upwork platform. My [page](https://www.upwork.com/freelancers/~0147ba5b5aa4344122), welcome!:) 
+
+By the way, I have already passed verification. I hope it will help me :)
+
 ***
+
+
 
 <mark>Secondary goals</mark>
 * To continue to learn English (A2 => B2)
@@ -44,3 +67,7 @@ So, perhaps this is quite abstract. Why do I choose it?
 2) I hope this will make me write more code and demonstrate my skills better.
 3) Given the popularity of the language I would like to have experience working with the front-end part.
 ```
+
+### Indicators of achievement:
+
+- 
