@@ -1,4 +1,4 @@
-I"Ó<h3 id="why-would-i-do-something-like-that">Why would I do something like that?</h3>
+I",<h3 id="why-would-i-do-something-like-that">Why would I do something like that?</h3>
 
 <p>Hello everyone!</p>
 
@@ -33,9 +33,9 @@
 <p><img src="https://rocket47.github.io/MainFormUI.png" alt="alt text" width="700" /></p>
 
 <h5 id="step-3-add-settings-form-implement-default-mode">Step 3. Add settings form. Implement default mode.</h5>
-<p><img src="https://rocket47.github.io/SettingsForm.png" alt="alt text" width="700" /></p>
+<p><img src="https://rocket47.github.io/SettingsForm.png" alt="alt text" width="350" /></p>
 
-<p>Data storage is implemented in a standard way. Save in the app.config.xml file.
-<img src="https://rocket47.github.io/SettingsForm.png" alt="alt text" width="700" /></p>
+<h5 id="data-storage-is-implemented-in-a-standard-way-save-in-the-appconfigxml-file">Data storage is implemented in a standard way. Save in the app.config.xml file.</h5>
+<p><img src="https://rocket47.github.io/AppSettings.png" alt="alt text" width="600" /></p>
 
 :ET

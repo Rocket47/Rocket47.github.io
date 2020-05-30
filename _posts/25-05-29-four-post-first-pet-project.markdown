@@ -37,8 +37,8 @@ Also I like this tutorial for better undestanding where is it used [youtube chan
 <img src="https://rocket47.github.io/MainFormUI.png" alt="alt text" width="700"/>
 
 ##### Step 3. Add settings form. Implement default mode. 
-<img src="https://rocket47.github.io/SettingsForm.png" alt="alt text" width="700"/>
+<img src="https://rocket47.github.io/SettingsForm.png" alt="alt text" width="350"/>
 
 ##### Data storage is implemented in a standard way. Save in the app.config.xml file.
-<img src="https://rocket47.github.io/AppSettings.png" alt="alt text" width="700"/>
+<img src="https://rocket47.github.io/AppSettings.png" alt="alt text" width="600"/>
 
