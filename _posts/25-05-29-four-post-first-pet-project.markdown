@@ -42,3 +42,7 @@ Also I like this tutorial for better undestanding where is it used [youtube chan
 ##### Data storage is implemented in a standard way. Save in the app.config.xml file.
 <img src="https://rocket47.github.io/AppSettings.png" alt="alt text" width="600"/>
 
+##### Step 4. Create timer
+
+Every tick (1 second) functions are called.
+<img src="https://rocket47.github.io/Timer.png" alt="alt text" width="600"/>
