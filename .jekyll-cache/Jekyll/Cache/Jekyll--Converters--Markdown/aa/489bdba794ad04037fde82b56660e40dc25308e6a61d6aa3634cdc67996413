@@ -1,4 +1,4 @@
-I"�<h3 id="why-would-i-do-something-like-that">Why would I do something like that?</h3>
+I">	<h3 id="why-would-i-do-something-like-that">Why would I do something like that?</h3>
 
 <p>Hello everyone!</p>
 
@@ -41,5 +41,10 @@
 <h5 id="step-4-create-timer">Step 4. Create timer</h5>
 
 <p>Every tick (1 second) functions are called.
-<img src="https://rocket47.github.io/Timer.png" alt="alt text" width="600" /></p>
+<img src="https://rocket47.github.io/Timer.png" alt="alt text" width="500" /></p>
+
+<h5 id="step-5-create-listview-fill-logic">Step 5. Create listview fill logic</h5>
+
+<h5 id="after-selection-button-new-generate-random-names-and-tasks-with-parameters">After selection button “New” generate random names and tasks with parameters.</h5>
+<p><img src="https://rocket47.github.io/ListView1.png" alt="alt text" width="500" /></p>
 :ET
