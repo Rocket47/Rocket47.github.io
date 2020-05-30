@@ -31,6 +31,6 @@ More about the algorithm you can see on the [wikipedia](https://en.wikipedia.org
 Also I like this tutorial for better undestanding where is it used [youtube channel](https://www.youtube.com/watch?v=TxjIlNYRZ5M)
 
 ##### Step 1. Made a development plan
-<img src="http://127.0.0.1:4000/roundrobinplan.jpeg" alt="alt text" width="700"/>
+<img src="https://rocket47.github.io/roundrobinplan.jpeg" alt="alt text" width="700"/>
 
 
