@@ -1,0 +1,41 @@
+I"�<h3 id="why-would-i-do-something-like-that">Why would I do something like that?</h3>
+
+<p>Hello everyone!</p>
+
+<p>My next activity is working on a pet-project.</p>
+
+<p>In this case, I have only one goal to start creating my own project. It sounds like this</p>
+
+<h3 id="start-doing-it">“Start doing it!”</h3>
+
+<p>Seriously, I almost don’t do my own project. Time to fix it!</p>
+
+<p>I believe that this will help me:</p>
+
+<ul>
+  <li>Learn to solve problems I didn’t know about before</li>
+  <li>Learn more about technology</li>
+  <li>Increase motivaiton to work</li>
+  <li>Work better with kpi and time management</li>
+</ul>
+
+<h3 id="description-of-project">Description of project</h3>
+<p>I implemented the round-robin algorithm in the desktop application.</p>
+
+<p>More about the algorithm you can see on the <a href="https://en.wikipedia.org/wiki/Round-robin">wikipedia</a></p>
+
+<p>Also I like this tutorial for better undestanding where is it used <a href="https://www.youtube.com/watch?v=TxjIlNYRZ5M">youtube channel</a></p>
+
+<h5 id="step-1-made-a-development-plan">Step 1. Made a development plan</h5>
+<p><img src="https://rocket47.github.io/roundrobinplan.jpeg" alt="alt text" width="700" /></p>
+
+<h5 id="step-2-time-to-create-a-ui">Step 2. Time to create a UI</h5>
+<p><img src="https://rocket47.github.io/MainFormUI.png" alt="alt text" width="700" /></p>
+
+<h5 id="step-3-add-settings-form-implement-default-mode">Step 3. Add settings form. Implement default mode.</h5>
+<p><img src="https://rocket47.github.io/SettingsForm.png" alt="alt text" width="700" /></p>
+
+<p>Data storage is implemented in a standard way. Save in the app.config.xml file.
+<img src="https://rocket47.github.io/SettingsForm.png" alt="alt text" width="700" /></p>
+
+:ET
