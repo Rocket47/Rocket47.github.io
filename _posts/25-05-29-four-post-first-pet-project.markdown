@@ -33,4 +33,5 @@ Also I like this tutorial for better undestanding where is it used [youtube chan
 ##### Step 1. Made a development plan
 <img src="https://rocket47.github.io/roundrobinplan.jpeg" alt="alt text" width="700"/>
 
-
+##### Step 2. Time to create a UI
+<img src="https://rocket47.github.io/MainFormUI.png" alt="alt text" width="700"/>

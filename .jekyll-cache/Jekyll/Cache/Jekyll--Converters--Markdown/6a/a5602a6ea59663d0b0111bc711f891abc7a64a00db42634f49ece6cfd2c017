@@ -1,4 +1,4 @@
-I"∏<h3 id="instruction-and-issues">Instruction and issues</h3>
+I"<h3 id="instruction-and-issues">Instruction and issues</h3>
 
 <p>Hi everyone!</p>
 
@@ -27,7 +27,7 @@
 
 <hr />
 <p><mark>STEP 2 : How to install jekyll environment</mark></p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code> cmd: gem install jekyll
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code> cmd: gem install jekyll
  cmd: jekyll -v
  cmd: gem install bundler
 </code></pre></div></div>
@@ -36,7 +36,7 @@
 
 <ul>
   <li>Create a folder <strong><em>Site</em></strong> anywhere on the disk (<mark style="background-color: lightblue">run CMD from this pla—Åe</mark>)
-    <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cmd: jekyll new YourBlogName
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>cmd: jekyll new YourBlogName
 cmd: jekyll build
 cmd: jekyll s
 cmd: CTRL+C //stop server
@@ -70,7 +70,7 @@ cmd: CTRL+C //stop server
 
 <hr />
 <p><mark style="background-color: lightblue">Remark</mark></p>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1) Not all templates can be uploaded to GitHub and even assembled on your computer
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1) Not all templates can be uploaded to GitHub and even assembled on your computer
 2) Just try to use simple themes
 3) I spent some time finding the right one. Perhaps this was the main issue for me
 </code></pre></div></div>
@@ -88,7 +88,7 @@ cmd: CTRL+C //stop server
 
 <hr />
 <h2 id="summary">Summary</h2>
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1) If the template is not collected the first time please analyze Gemfile 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>1) If the template is not collected the first time please analyze Gemfile 
 2) If the downloaded folder with the theme have Gemfile.lock. Remove it!
 3) You should use _config.yml to set up preferences. Just don't forget that this file exists :)
 </code></pre></div></div>
