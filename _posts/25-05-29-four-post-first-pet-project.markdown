@@ -10,11 +10,11 @@ Hello everyone!
 
 My next activity is working on a pet-project. 
 
-In this case I have only one goal to start creating my own project. It sounds like this 
+In this case, I have only one goal to start creating my own project. It sounds like this 
 
 ### "Start doing it!"
 
-Seriously, I almosty don't do my own project. Time to fix it! 
+Seriously, I almost don't do my own project. Time to fix it! 
 
 I believe that this will help me:
 
@@ -24,6 +24,13 @@ I believe that this will help me:
 - Work better with kpi and time management
 
 ### Description of project
+I implemented the round-robin algorithm in the desktop application.
 
+More about the algorithm you can see on the [wikipedia](https://en.wikipedia.org/wiki/Round-robin)
+
+Also I like this tutorial for better undestanding where is it used [youtube channel](https://www.youtube.com/watch?v=TxjIlNYRZ5M)
+
+##### Step 1. Made a development plan
+<img src="http://127.0.0.1:4000/roundrobinplan.jpeg" alt="alt text" width="700"/>
 
 
