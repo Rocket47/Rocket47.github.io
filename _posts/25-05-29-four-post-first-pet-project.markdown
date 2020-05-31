@@ -69,8 +69,27 @@ When timer is triggered, a function that redistributes the tasks of employees is
 <img src="https://rocket47.github.io/ListView3.png" alt="alt text" width="1000"/>
 
 ##### Function to generate names of employees
-
-<img src="https://rocket47.github.io/GenerateName.png" alt="alt text" width="1000"/>
+   
+    public string GenerateNameWorker()
+        {
+            Random r = new Random();
+            int len = r.Next(4, 10);
+            string[] consonants = { "b", "c", "d", "f", "g", "h", "j", "k", "l", "m", "l", "n", "p", "q", "r", "s", "sh", "zh", "t", "v", "w", "x" };
+            string[] vowels = { "a", "e", "i", "o", "u", "ae", "y" };
+            string Name = "";
+            Name += consonants[r.Next(consonants.Length)].ToUpper();
+            Name += vowels[r.Next(vowels.Length)];
+            int timeLetterAdded = 2; 
+            while (timeLetterAdded < len)
+            {
+                Name += consonants[r.Next(consonants.Length)];
+                timeLetterAdded++;
+                Name += vowels[r.Next(vowels.Length)];
+                timeLetterAdded++;
+            }
+            return Name;
+        }
+        
 ##### I would like to create function without creating names first. I thought it would be interesting.  This is why the implementation is like this.
 
 ##### Step 6. Add button pause. When the button is pressed, the timer remains

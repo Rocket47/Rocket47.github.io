@@ -1,4 +1,4 @@
-I"w<h3 id="why-would-i-do-something-like-that">Why would I do something like that?</h3>
+I"�<h3 id="why-would-i-do-something-like-that">Why would I do something like that?</h3>
 
 <p>Hello everyone!</p>
 
@@ -68,6 +68,29 @@
 
 <h5 id="function-to-generate-names-of-employees">Function to generate names of employees</h5>
 
-<p><img src="https://rocket47.github.io/GenerateName.png" alt="alt text" width="1000" /></p>
+<p>public string GenerateNameWorker()
+        {
+            Random r = new Random();
+            int len = r.Next(4, 10);
+            string[] consonants = { “b”, “c”, “d”, “f”, “g”, “h”, “j”, “k”, “l”, “m”, “l”, “n”, “p”, “q”, “r”, “s”, “sh”, “zh”, “t”, “v”, “w”, “x” };
+            string[] vowels = { “a”, “e”, “i”, “o”, “u”, “ae”, “y” };
+            string Name = “”;
+            Name += consonants[r.Next(consonants.Length)].ToUpper();
+            Name += vowels[r.Next(vowels.Length)];
+            int timeLetterAdded = 2; 
+            while (timeLetterAdded &lt; len)
+            {
+                Name += consonants[r.Next(consonants.Length)];
+                timeLetterAdded++;
+                Name += vowels[r.Next(vowels.Length)];
+                timeLetterAdded++;
+            }
+            return Name;
+        }</p>
+
 <h5 id="i-would-like-to-create-function-without-creating-names-first-i-thought-it-would-be-interesting--this-is-why-the-implementation-is-like-this">I would like to create function without creating names first. I thought it would be interesting.  This is why the implementation is like this.</h5>
+
+<h5 id="step-6-add-button-pause-when-the-button-is-pressed-the-timer-remains">Step 6. Add button pause. When the button is pressed, the timer remains</h5>
+
+<p><img src="https://rocket47.github.io/ButtonPause.png" alt="alt text" width="500" /></p>
 :ET

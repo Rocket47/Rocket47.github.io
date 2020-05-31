@@ -1,4 +1,4 @@
-I"ä<h3 id="why-would-i-do-something-like-that">Why would I do something like that?</h3>
+I"{<h3 id="why-would-i-do-something-like-that">Why would I do something like that?</h3>
 
 <p>Hello everyone!</p>
 
@@ -67,8 +67,10 @@
 <p><img src="https://rocket47.github.io/ListView3.png" alt="alt text" width="1000" /></p>
 
 <h5 id="function-to-generate-names-of-employees">Function to generate names of employees</h5>
+<p><img src="https://rocket47.github.io/GenerateName.png" alt="alt text" height="300" width="1000" /></p>
+<h5 id="i-would-like-to-create-function-without-creating-names-first-i-thought-it-would-be-interesting--this-is-why-the-implementation-is-like-this">I would like to create function without creating names first. I thought it would be interesting.  This is why the implementation is like this.</h5>
 
-<p><img src="https://rocket47.github.io/GenerateName.png" alt="alt text" width="900" /></p>
+<h5 id="step-6-add-button-pause-when-the-button-is-pressed-the-timer-remains">Step 6. Add button pause. When the button is pressed, the timer remains</h5>
 
-<p>I would like to create function without creating names first. I thought it would be interesting.  This is why the implementation is like this.</p>
+<p><img src="https://rocket47.github.io/ButtonPause.png" alt="alt text" width="500" /></p>
 :ET
