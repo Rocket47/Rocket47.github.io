@@ -95,3 +95,20 @@ When timer is triggered, a function that redistributes the tasks of employees is
 ##### Step 6. Add button pause. When the button is pressed, the timer remains
 
 <img src="https://rocket47.github.io/ButtonPause.png" alt="alt text" width="500"/>
+
+##### Notes.
+
+- Separately, I would like to say about the flicker problem in listview. This solution solved my life! I hope it will be useful for you:
+```
+listview
+.GetType()
+.GetProperty("DoubleBuffered", System.Reflection.BindingFlags.Instance | 		
+System.Reflection.BindingFlags.NonPublic)
+.SetValue(listview, true, null);
+```
+- One of my next goals is to understand multithreading. 
+
+I didn't use it in this project. It's terrible. The main UI thread is blocked when generating random names and tasks. Moving on!
+
+##### Thank you for the attention! You can try to install msi and just test tool.
+[release v1.0](https://github.com/Rocket47/learn_Csharp_practice/releases/tag/v1.0 )
