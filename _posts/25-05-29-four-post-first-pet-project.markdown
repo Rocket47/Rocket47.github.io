@@ -20,7 +20,7 @@ I believe that this will help me:
 
 - Learn to solve problems I didn't know about before
 - Learn more about technology
-- Increase motivaiton to work
+- Increase motivation to work
 - Work better with kpi and time management
 
 ### Description of project
@@ -28,7 +28,7 @@ I implemented the round-robin algorithm in the desktop application.
 
 More about the algorithm you can see on the [wikipedia](https://en.wikipedia.org/wiki/Round-robin)
 
-Also I like this tutorial for better undestanding where is it used [youtube channel](https://www.youtube.com/watch?v=TxjIlNYRZ5M)
+Also, I like this tutorial for better understanding where it is used [youtube channel](https://www.youtube.com/watch?v=TxjIlNYRZ5M)
 
 ##### Step 1. Made a development plan
 <img src="https://rocket47.github.io/roundrobinplan.jpeg" alt="alt text" width="700"/>
